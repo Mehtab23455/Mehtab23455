@@ -37,7 +37,7 @@ I am actively building and deepening my expertise in:
 ---
 
 ### 📬 Connect
-*   **LinkedIn:** [Insert your LinkedIn link here]
+*   **LinkedIn:** [https://www.linkedin.com/in/mehtab-singh-sidhu/]
 *   **Portfolio/Blog:** [Insert your personal site or portfolio link here]
 
 ---
