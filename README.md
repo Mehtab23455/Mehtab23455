@@ -71,10 +71,8 @@ Git • GitHub • Docker • Vercel • Render
 
 ## Connect
 
-LinkedIn
+LinkedIn : [https://www.linkedin.com/in/mehtab-singh-sidhu/]
 
-Portfolio
+Portfolio : [https://mehtab23455.github.io/portfolio/]
 
-Google Scholar
-
-Email
+Email : [mehtabsinghsidhu01@gmail.com]
