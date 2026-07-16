@@ -70,7 +70,7 @@ Git • GitHub • Docker • Vercel • Render
 ---
 
 ## Connect
-Zenodo Publications : [https://zenodo.org/search?q=metadata.creators.person_or_org.name):"Sidhu, Mehtab Singh"]
+Zenodo Publications : [[https://zenodo.org/search?q=metadata.creators.person_or_org.name):"Sidhu, Mehtab Singh"](https://zenodo.org/search?q=metadata.creators.person_or_org.name:"Sidhu\, Mehtab Singh")]
 
 LinkedIn : [https://www.linkedin.com/in/mehtab-singh-sidhu/]
 
