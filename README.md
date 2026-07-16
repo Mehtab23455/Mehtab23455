@@ -1,48 +1,80 @@
-# Hi, I'm Mehtab Singh Sidhu 👋
+# Mehtab Singh Sidhu
 
-I’m an undergraduate researcher and Computer Science Engineering student building intelligent systems at the intersection of **Applied AI, Data Engineering, and Decision Intelligence.**
+Undergraduate Researcher | Applied AI | Data Engineering | Decision Intelligence
 
-## Note
+I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Data Science, with interests in machine learning, financial analytics, enterprise AI, and large-scale data engineering.
 
-Several of my most impactful projects—including AI SaaS platforms, enterprise analytics systems, and production data engineering pipelines—are maintained in private repositories due to internship and client confidentiality agreements. My public repositories highlight research, open-source work, and personal projects that reflect my technical interests and engineering approach.
+My work combines academic research with industry experience across AI startups in Hong Kong, the United States, and India, where I have contributed to data-intensive products, analytics platforms, and intelligent software systems.
 
----
-
-### 🚀 Research & Professional Focus
-*   **Research:** Financial Machine Learning, AI for Business Analytics, Decision Intelligence, and Data Engineering.
-*   **Current Development:** AI-powered SaaS, Enterprise Analytics, LLM Applications, and scalable Data Pipelines.
-
-### 📚 Publications
-*   **Volatility Dynamics of Asian Stock Markets**
-*   **Generalization Limits in Noisy Time Series**
-
-### 💼 Experience
-*   **LunarTech AI** | AI/Data Intern
-*   **Solar Beauty AI** | AI/Data Intern
-*   **Byteoski Developers** | Software Engineering Intern
+> **Note**
+>
+> Several of my most impactful engineering projects—including AI SaaS platforms, enterprise analytics systems, and production data pipelines—are maintained in private repositories due to internship and client confidentiality agreements. My public repositories showcase research, open-source contributions, and personal projects that reflect my technical interests and engineering approach.
 
 ---
 
-### 🛠 Technical Proficiency
-I am actively building and deepening my expertise in:
+## Highlights
 
-*   **Languages:** Python, Java, C++, JavaScript
-*   **Data & Systems:** Large-scale Data Engineering, Distributed Systems
-*   **AI/ML:** Applied Machine Learning, LLM Application Development
-*   **Strategy:** Decision Intelligence, Enterprise Data Architecture
-
----
-
-### 📈 Current Learning Path
-*   **Advanced Machine Learning:** Pushing the boundaries of model generalization.
-*   **Distributed Systems:** Designing for scale and reliability in data pipelines.
-*   **Large-scale Data Engineering:** Architecting robust infrastructure for enterprise data.
+- 2 Research Papers published on Zenodo
+- 3 International AI & Data Internships
+- 100K+ Investor Records Engineered
+- 44.6K Canonical Investor Profiles Built
+- 9.41/10 CGPA
+- AI SaaS applications deployed using Vercel and Render
 
 ---
 
-### 📬 Connect
-*   **LinkedIn:** [https://www.linkedin.com/in/mehtab-singh-sidhu/]
-*   **Portfolio/Blog:** [https://mehtab23455.github.io/portfolio/]
+## Research Interests
+
+- Artificial Intelligence
+- Data Analytics
+- Financial Machine Learning
+- Decision Intelligence
+- Enterprise Data Engineering
+- Large Language Models
+- Business Intelligence
 
 ---
-*Building the future of data-driven decision making.*
+
+## Professional Experience
+
+- Data Engineer Intern — LunarTech AI
+- Business Analyst Intern — Solar Beauty AI
+- Software Engineer Intern — Byteoski Developers
+
+---
+
+## Technical Stack
+
+**Languages**
+Python • SQL • Java • JavaScript • C++
+
+**Frameworks**
+Django • Next.js • React • FastAPI
+
+**Data**
+PostgreSQL • BigQuery • Tableau • Excel
+
+**AI & ML**
+Scikit-learn • OpenAI API • LangChain • NLP
+
+**Tools**
+Git • GitHub • Docker • Vercel • Render
+
+---
+
+## Publications
+
+- Volatility Dynamics of Asian Stock Markets: Evidence from the Hang Seng Index and Nikkei 225
+- Generalization Limits in Noisy Financial Time Series Returns
+
+---
+
+## Connect
+
+LinkedIn
+
+Portfolio
+
+Google Scholar
+
+Email
