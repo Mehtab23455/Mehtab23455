@@ -42,7 +42,7 @@ I am actively building and deepening my expertise in:
 
 ### 📬 Connect
 *   **LinkedIn:** [https://www.linkedin.com/in/mehtab-singh-sidhu/]
-*   **Portfolio/Blog:** [Insert your personal site or portfolio link here]
+*   **Portfolio/Blog:** [https://mehtab23455.github.io/portfolio/]
 
 ---
 *Building the future of data-driven decision making.*
