@@ -8,7 +8,7 @@ My work combines academic research with industry experience across AI startups i
 
 > **Note**
 >
-> Several of my most impactful engineering projects—including AI SaaS platforms, enterprise analytics systems, and production data pipelines—are maintained in private repositories due to internship and client confidentiality agreements. My public repositories showcase research, open-source contributions, and personal projects that reflect my technical interests and engineering approach.
+> Several of my most impactful engineering projects—including AI SaaS platforms, enterprise analytics systems, and production data pipelines—are maintained in private repositories due to confidentiality concerns. My public repositories showcase research, open-source contributions, and personal projects that reflect my technical interests and engineering approach.
 
 ---
 
